@@ -1,0 +1,39 @@
+[
+  {
+    "operation": "PREPARE_BEVERAGES",
+    "names": [
+      "hot_tea"
+    ]
+  },
+  {
+    "operation": "PREPARE_BEVERAGES",
+    "names": [
+      "harsh_chai"
+    ]
+  },
+  {
+    "operation": "PREPARE_BEVERAGES",
+    "names": [
+      "hot_tea",
+      "hot_coffee",
+      "unknown",
+      "black_tea",
+      "hot_coffee",
+      "green_tea"
+    ]
+  },
+  {
+    "operation": "ADD_INGREDIENTS",
+    "total_items_quantity": {
+      "a": 50
+    }
+  },
+  {
+    "operation": "ADD_RECIPE",
+    "name": "bed_tea",
+    "ingredients": {
+      "a": 60,
+      "b": 89
+    }
+  }
+]
